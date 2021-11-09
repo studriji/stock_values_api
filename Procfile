@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser stock_values.ipynb
